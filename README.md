@@ -55,5 +55,5 @@ https://github.com/icejan/Movie-DBMS/assets/97641242/ab4c2a43-4791-4ff3-b451-e01
 * Payment will be completed by charging the saved credit card on file before the user has access to the movie. Upon successful payment, a timestamp will be added to the customer’s film to keep track of both purchase history and remaining rental time left if applicable.
 
 ## Credits
-* Dalton Crowe
+* Dalton Crowe https://www.linkedin.com/in/daltoncrowe/
 * Fadi Al-Shabi
