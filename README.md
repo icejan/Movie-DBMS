@@ -30,10 +30,14 @@ Open terminal and type below command
 
 `ssh username@moon.cs.ryerson.ca`
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Installation
 Clone the repo:
 
 `git clone https://github.com/icejan/Movie-DBMS.git`
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Usage
 ### Unix Shell
@@ -49,6 +53,8 @@ You can explore the database system, allowing for records to be added, modified,
 
 https://github.com/icejan/Movie-DBMS/assets/97641242/ab4c2a43-4791-4ff3-b451-e01d047a9c63
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Features
 * Allows customers to search for their favorite movies with multiple filtering options based on genres, year released, director, and other criteria. 
 * The online store will enable people to buy or rent movies. 
@@ -57,6 +63,8 @@ https://github.com/icejan/Movie-DBMS/assets/97641242/ab4c2a43-4791-4ff3-b451-e01
 * A customer will have attributes like email, password, billing address, and payment info. They can search the database for movies they might be interested in purchasing by specifying a title, genre, or associated performers and directors. Upon selection of a desired movie title, the price will be displayed. 
 * Payment will be completed by charging the saved credit card on file before the user has access to the movie. Upon successful payment, a timestamp will be added to the customer’s film to keep track of both purchase history and remaining rental time left if applicable.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Credits
-* Dalton Crowe https://www.linkedin.com/in/daltoncrowe/
+* Dalton Crowe - https://www.linkedin.com/in/daltoncrowe/
 * Fadi Al-Shabi
