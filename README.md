@@ -1,4 +1,5 @@
 # Online Movie DBMS
+<a name="readme-top"></a>
 
 ## Table of Contents
 * [Introduction](#introduction)
@@ -18,6 +19,8 @@ The project is created with:
 * Oracle DBMS Developer
 * Unix Shell Scripting
 * .NET C#
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Prerequisites
 To run the application on your own computer, first make sure the local system is connected through the TMU VPN (vpn.scs.ryerson.ca).
