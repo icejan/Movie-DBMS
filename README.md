@@ -12,7 +12,7 @@
 ## Introduction
 This program aids a movie store owner in managing their inventory of movies online to sell or rent to customers 24/7. Relational techniques were learnt and used to optimize the database by reducing tables and restricting customers access on restricted information.
 
-# Technologies
+## Technologies
 The project is created with:
 * SQL
 * Oracle DBMS Developer
