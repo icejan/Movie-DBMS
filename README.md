@@ -1,7 +1,7 @@
 # Online Movie DBMS
 
 ## Table of Contents
-* [General info](#introduction)
+* [Introduction](#introduction)
 * [Technologies](#technologies)
 * [Prerequisites](#prerequisites)
 * [Installation](#installation)
@@ -23,16 +23,16 @@ To run the application on your own computer, first make sure the local system is
 
 To run the unix shell, connect to the moon server through MobaXterm or from mac terminal
 Open terminal and type below command
-$ ssh username@moon.cs.ryerson.ca
+'$ ssh username@moon.cs.ryerson.ca'
 
 ## Installation
 Clone the repo:
-$ git clone https://github.com/icejan/Movie-DBMS.git
+'$ git clone https://github.com/icejan/Movie-DBMS.git'
 
 ## Usage
 ### Unix Shell
 To run the unix shell menu, use command in MobaXterm or from mac terminal
-$ bash menu.sh
+'$ bash menu.sh'
 You can input your choices from the listed options detailed in the menu to change or manage the database.
 
 ### GUI
