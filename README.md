@@ -6,7 +6,8 @@
 * [Prerequisites](#prerequisites)
 * [Installation](#installation)
 * [Usage](#usage)
-* 
+* [Features](#features)
+* [Credits](#credits)
 
 ## Introduction
 This program aids a movie store owner in managing their inventory of movies online to sell or rent to customers 24/7. Relational techniques were learnt and used to optimize the database by reducing tables and restricting customers access on restricted information.
@@ -37,7 +38,8 @@ You can input your choices from the listed options detailed in the menu to chang
 
 ### GUI
 To run the GUI, run the executable “Movie Store.exe" to launch the application.
-You can explore the database system, allowing for records to be added, modified, or deleted. An example video is shown below:
+You can explore the database system, allowing for records to be added, modified, or deleted. An example video is shown below.
+
 https://github.com/icejan/Movie-DBMS/assets/97641242/ab4c2a43-4791-4ff3-b451-e01d047a9c63
 
 ## Features
